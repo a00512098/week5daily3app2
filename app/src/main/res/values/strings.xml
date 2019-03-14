@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week 5 Daily 3 App 2</string>
+    <string name="name_s">Name: %s</string>
+    <string name="number_s">Number: %s</string>
+    <string name="count_s">Count: %s</string>
+    <string name="description_s">Description: %s</string>
+</resources>
