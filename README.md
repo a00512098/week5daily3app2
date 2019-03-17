@@ -11,4 +11,4 @@ It also has support for multiple screen sizes.
 This is how the app looks:
 ![alt text][img1]
 
-[img1]: "App running"
+[img1]: https://github.com/a00512098/screenshots/blob/master/week5day3app2/device-2019-03-17-135936.png?raw=true "App running"
